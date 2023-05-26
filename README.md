@@ -1,5 +1,18 @@
 # LeetCode Solutions 
 
+This repository contains my solutions for various LeetCode problems. LeetCode is a popular platform for practicing coding skills and preparing for technical interviews. In this repository, you will find solutions implemented in C++ for a variety of LeetCode problems.
+
+ ## How to Use
+You can browse the solutions by navigating through the table of contents. Each problem is listed with a link to LeetCode, where you can find a detailed description of the problem and the link to the solution code.
+
+To access a solution:
+- Click on the link to the specific problem you are interested in.
+- Read the problem description and any additional notes or constraints.
+- Review the solution code provided in the directory.
+- Feel free to explore the solutions, analyze the approaches used, and adapt them to your own coding practice.
+
+## Table of Contents 
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](LeetCode1.cpp) |Easy|
