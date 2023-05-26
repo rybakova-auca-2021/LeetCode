@@ -8,10 +8,10 @@
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)| [C++](LeetCode2235.cpp) |Easy|
 
 
-#License
+# License
 The solutions provided in this repository are for educational purposes and personal reference. You are free to use them as a learning resource. However, please note that using these solutions directly in a LeetCode competition or interview is against LeetCode's policy.
 
-#Contact
+# Contact
 If you have any questions, suggestions, or feedback, feel free to contact me at [insert contact email here].
 
 Happy coding!
