@@ -17,6 +17,9 @@ To access a solution:
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](LeetCode1.cpp) |Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](LeetCode9.cpp) |Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](LeetCode21.cpp) |Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](LeetCode26.cpp) |Easy|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](LeetCode83.cpp) |Easy|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [C++](LeetCode1047.cpp) |Easy|
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)| [C++](LeetCode2235.cpp) |Easy|
 
