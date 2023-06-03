@@ -20,6 +20,9 @@ To access a solution:
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](LeetCode21.cpp) |Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](LeetCode26.cpp) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](LeetCode83.cpp) |Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](LeetCode141.cpp) |Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [C++](LeetCode160.cpp) |Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](LeetCode206.cpp) |Easy|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [C++](LeetCode1047.cpp) |Easy|
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)| [C++](LeetCode2235.cpp) |Easy|
 
