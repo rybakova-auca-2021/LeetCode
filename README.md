@@ -26,6 +26,9 @@ To access a solution:
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [C++](LeetCode232.cpp) |Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [C++](LeetCode234.cpp) |Easy|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/palindrome-linked-list/)| [C++](LeetCode350.cpp) |Easy|
+|451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| [C++](LeetCode451.cpp) |Medium|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)| [C++](LeetCode804.cpp) |Easy|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [C++](LeetCode876.cpp) |Easy|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [C++](LeetCode1047.cpp) |Easy|
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)| [C++](LeetCode2235.cpp) |Easy|
 
