@@ -30,6 +30,7 @@ To access a solution:
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)| [C++](LeetCode804.cpp) |Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [C++](LeetCode876.cpp) |Easy|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [C++](LeetCode1047.cpp) |Easy|
+|1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)| [C++](LeetCode1684.cpp) |Easy|
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)| [C++](LeetCode2235.cpp) |Easy|
 
 
