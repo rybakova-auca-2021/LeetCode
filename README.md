@@ -25,7 +25,9 @@ To access a solution:
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)| [C++](LeetCode88.cpp) [Python](LeetCode88.py) |Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](LeetCode141.cpp) |Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [C++](LeetCode160.cpp) |Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/description/)| [C++](LeetCode169.cpp) |Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](LeetCode206.cpp) |Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [C++](LeetCode217.cpp) |Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [C++](LeetCode232.cpp) |Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [C++](LeetCode234.cpp) |Easy|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/palindrome-linked-list/)| [C++](LeetCode350.cpp) |Easy|
@@ -34,7 +36,9 @@ To access a solution:
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)| [C++](LeetCode804.cpp) |Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [C++](LeetCode876.cpp) |Easy|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [C++](LeetCode1047.cpp) |Easy|
+|1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)| [Python](LeetCode1672.py) |Easy|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)| [C++](LeetCode1684.cpp) |Easy|
+|1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)| [Python](LeetCode1929.py) |Easy|
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)| [C++](LeetCode2235.cpp) |Easy|
 |2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)| [C++](LeetCode2706.cpp) |Easy|
 |2733|[Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/)| [C++](LeetCode2733.cpp) |Easy|
