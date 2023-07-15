@@ -20,7 +20,7 @@ To access a solution:
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](LeetCode21.cpp) |Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](LeetCode26.cpp) |Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](LeetCode27.cpp) |Easy|
-|66|[Plus One](https://leetcodgit ade.com/problems/plus-one/)| [C++](LeetCode66.cpp) |Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](LeetCode66.cpp) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](LeetCode83.cpp) |Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)| [C++](LeetCode88.cpp) [Python](LeetCode88.py) |Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](LeetCode141.cpp) |Easy|
