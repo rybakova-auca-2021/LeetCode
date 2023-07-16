@@ -17,12 +17,16 @@ To access a solution:
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](LeetCode1.cpp) |Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](LeetCode9.cpp) |Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)| [C++](LeetCode20.cpp) |Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](LeetCode21.cpp) |Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](LeetCode26.cpp) |Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](LeetCode27.cpp) |Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](LeetCode66.cpp) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](LeetCode83.cpp) |Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)| [C++](LeetCode88.cpp) [Python](LeetCode88.py) |Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](LeetCode111.cpp) |Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)| [C++](LeetCode121.cpp) |Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [C++](LeetCode125.cpp) |Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](LeetCode141.cpp) |Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [C++](LeetCode160.cpp) |Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/)| [C++](LeetCode169.cpp) |Easy|
@@ -30,6 +34,7 @@ To access a solution:
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [C++](LeetCode217.cpp) |Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [C++](LeetCode232.cpp) |Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [C++](LeetCode234.cpp) |Easy|
+|242|[Valid Anagrams](https://leetcode.com/problems/valid-anagram/)| [C++](LeetCode242.cpp) |Easy|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/palindrome-linked-list/)| [C++](LeetCode350.cpp) |Easy|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| [C++](LeetCode451.cpp) |Medium|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)| [C++](LeetCode551.cpp) |Easy|
