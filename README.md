@@ -38,11 +38,14 @@ To access a solution:
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)| [C++](LeetCode168.cpp) |Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/)| [C++](LeetCode169.cpp) |Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)| [C++](LeetCode171.cpp) |Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)| [C++](LeetCode202.cpp) |Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](LeetCode206.cpp) |Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [C++](LeetCode217.cpp) |Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Python](LeetCode231.py) |Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [C++](LeetCode232.cpp) |Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [C++](LeetCode234.cpp) |Easy|
 |242|[Valid Anagrams](https://leetcode.com/problems/valid-anagram/)| [C++](LeetCode242.cpp) |Easy|
+|342|[Power Of Four](https://leetcode.com/problems/power-of-four/)| [Python](LeetCode342.py) |Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++](LeetCode344.cpp) |Easy|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/palindrome-linked-list/)| [C++](LeetCode350.cpp) |Easy|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| [C++](LeetCode451.cpp) |Medium|
