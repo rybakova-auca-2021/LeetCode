@@ -45,6 +45,10 @@ To access a solution:
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [C++](LeetCode232.cpp) |Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [C++](LeetCode234.cpp) |Easy|
 |242|[Valid Anagrams](https://leetcode.com/problems/valid-anagram/)| [C++](LeetCode242.cpp) |Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)| [C++](LeetCode258.cpp) |Easy|
+|263|[Ugly number](https://leetcode.com/problems/ugly-number/)| [C++](LeetCode263.cpp) |Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [C++](LeetCode283.cpp) |Easy|
+|326|[Power Of Three](https://leetcode.com/problems/power-of-three/)| [Python](LeetCode326.py) |Easy|
 |342|[Power Of Four](https://leetcode.com/problems/power-of-four/)| [Python](LeetCode342.py) |Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++](LeetCode344.cpp) |Easy|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/palindrome-linked-list/)| [C++](LeetCode350.cpp) |Easy|
