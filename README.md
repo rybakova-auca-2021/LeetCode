@@ -38,9 +38,11 @@ To access a solution:
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)| [C++](LeetCode168.cpp) |Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/)| [C++](LeetCode169.cpp) |Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)| [C++](LeetCode171.cpp) |Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [C++](LeetCode191.cpp) |Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [C++](LeetCode202.cpp) |Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](LeetCode206.cpp) |Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [C++](LeetCode217.cpp) |Easy|
+|225|[Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-us  ing-queues/)| [C++](LeetCode225.cpp) |Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Python](LeetCode231.py) |Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [C++](LeetCode232.cpp) |Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [C++](LeetCode234.cpp) |Easy|
