@@ -29,6 +29,7 @@ To access a solution:
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](LeetCode69.cpp) |Easy|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](LeetCode83.cpp) |Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)| [C++](LeetCode88.cpp) [Python](LeetCode88.py) |Easy|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [C++] (LeetCode94.cpp) |Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [C++](LeetCode111.cpp) |Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)| [C++](LeetCode121.cpp) |Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [C++](LeetCode125.cpp) |Easy|
@@ -54,6 +55,7 @@ To access a solution:
 |342|[Power Of Four](https://leetcode.com/problems/power-of-four/)| [Python](LeetCode342.py) |Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++](LeetCode344.cpp) |Easy|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/palindrome-linked-list/)| [C++](LeetCode350.cpp) |Easy|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)| [C++](LeetCode389.cpp) |Easy|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| [C++](LeetCode451.cpp) |Medium|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)| [C++](LeetCode551.cpp) |Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)| [C++](LeetCode804.cpp) |Easy|
